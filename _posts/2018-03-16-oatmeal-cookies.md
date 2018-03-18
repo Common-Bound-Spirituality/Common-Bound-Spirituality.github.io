@@ -3,7 +3,7 @@ layout: single
 title:  "Oatmeal Cookies"
 permalink: /oatmeal-cookies/
 header:
-  teaser: /assets/images/bio-photo.jpg
+  teaser: /assets/images/grancanyon1.jpg
 ---
 
 Oatmeal cookies are a proverbial favorite with both kids and adults. This crisp and chewy cookie is loaded with oats, dried fruit, and chopped nuts.
