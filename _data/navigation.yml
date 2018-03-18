@@ -2,7 +2,9 @@
 main:
   - title: "About"
     url: /
-  - title: "Blog"
+  - title: "Blog Posts"
     url: /
   - title: "Resources"
     url: /
+  - title: "<i class=\"fa fa-search\" aria-hidden=\"true\"></i>"
+    url: /search/
