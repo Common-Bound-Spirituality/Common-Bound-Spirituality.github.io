@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /
   - title: "Blog Posts"
-    url: /
+    url: /blog-archive/
   - title: "Resources"
     url: /
   - title: "<i class=\"fa fa-search\" aria-hidden=\"true\"></i>"
