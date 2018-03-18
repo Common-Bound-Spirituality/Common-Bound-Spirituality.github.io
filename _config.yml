@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Tom Dezell"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Father, Husband, Spiritual Companion"
   location         : "Wisconsin"
   email            : "commonboundspirituality@gmail.com"
