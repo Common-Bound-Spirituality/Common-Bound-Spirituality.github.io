@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Common Bound Spirituality"
 title_separator          : "-"
-name                     : "Tom Dezell"
+name                     : "Thomas Dezell"
 description              : "Spirituality grounded in generous Love"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -75,7 +75,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "@thomasdezell"
 facebook:
   username               :
   app_id                 :
@@ -97,7 +97,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tom Dezell"
+  name             : "Thomas Dezell"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Father, Husband, Spiritual Companion"
   location         : "Wisconsin"
