@@ -1,8 +1,8 @@
 ---
 layout: splash
-title:  "Common Bound Spirituality"
+title:  "<br><br>Common Bound Spirituality"
 permalink: /
-excerpt: "Spirituality grounded in generous Love"
+excerpt: "Spirituality grounded in generous Love<br><br>"
 header:
   overlay_image: /assets/images/sunrise.jpg
   overlay_filter: rgba(0, 0, 0, 0)
@@ -31,6 +31,20 @@ row1:
     btn_label: "About Me"
     btn_class: "btn--primary"
     excerpt: "A brief summary of myself and my own path. For latest info try [@thomasdezell<i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>](https://twitter.com/@thomasdezell)."
+  - image_path: /assets/images/arch.jpg
+    alt: "Links"
+    title: "Links"
+    url: /links/
+    btn_label: "Discover"
+    btn_class: "btn--primary"
+    excerpt: "Links to a world of ...."
+  - image_path: /assets/images/arch2.jpg
+    alt: "Events"
+    title: "Events"
+    url: /events/
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+    excerpt: "Workshops....."
 
   
 ---

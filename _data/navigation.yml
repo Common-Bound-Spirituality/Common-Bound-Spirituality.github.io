@@ -1,10 +1,14 @@
 # main links
 main:
-  - title: "About"
-    url: /
   - title: "Blog Posts"
     url: /blog-archive/
-  - title: "Resources"
-    url: /
+  - title: "Recommended Reading"
+    url: /recommended-reading/
+  - title: "Events"
+    url: /events/
+  - title: "Links"
+    url: /links/
+  - title: "About Me"
+    url: /about-me/
   - title: "<i class=\"fa fa-search\" aria-hidden=\"true\"></i>"
     url: /search/
