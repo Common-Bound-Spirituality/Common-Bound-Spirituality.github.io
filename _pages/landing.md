@@ -24,7 +24,7 @@ row1:
     btn_label: "Read On"
     btn_class: "btn--primary"
     excerpt: "Reading materials for anyone no matter where you are at in your own spiritual journey"
-  - image_path: /assets/images/sunglasses.jpg
+  - image_path: /assets/images/sunglasses-cropped.jpg
     alt: "Thomas Dezell"
     title: "Thomas Dezell"
     url: /about-me/
@@ -38,9 +38,9 @@ Common Bound Spirituality is not a Practice.  Common Bound Spirituality is who w
 
 
 I Invite You to Come and See
--Tom DeZell
 
-{% include toc %}
+
+-Tom DeZell
 {% include feature_row id="row1" %}
 
 # About Common Bound Spirituality
@@ -64,4 +64,6 @@ My walk with God compels me to want to walk with you as the God of your understa
 I would welcome any and all questions that you might have about spiritual direction.  Typically a person would meet with their director once a month.  There is an agreed upon stipend for spiritual direction.
 
 I am a current member of [spiritual directors international](http://www.sdiworld.org/) and I adhere to their [Guidelines for Ethical Conduct](http://www.sdiworld.org/publications/guidelines-ethical-conduct).
+
+{% include toc %}
 
