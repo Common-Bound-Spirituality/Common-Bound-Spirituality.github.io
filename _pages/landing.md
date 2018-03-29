@@ -35,10 +35,10 @@ row1:
   
 ---
 Common Bound Spirituality is not a Practice.  Common Bound Spirituality is who we are together; it is the world that we move around in, in all of its Mystery and Wonder.  In it we are joined to infinite Grace and Mercy by our God who wants only to return us to our truest selves.
-
+{: .text-center}
 
 I Invite You to Come and See
-
+{: .text-center}
 
 -Tom DeZell
 {: .text-center}
