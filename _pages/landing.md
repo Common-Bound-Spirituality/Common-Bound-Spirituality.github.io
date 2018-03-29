@@ -41,7 +41,7 @@ I Invite You to Come and See
 -Tom DeZell
 
 {% include toc %}
-{% include feature_row id="row1" type="left"  %}
+{% include feature_row id="row1" %}
 
 # About Common Bound Spirituality
 
