@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Thomas Dezell"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/sunglasses.jpg"
   bio              : "Father, Husband, Spiritual Companion"
   location         : "Wisconsin"
   email            : "commonboundspirituality@gmail.com"
@@ -108,7 +108,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/thomas.dezell"
   foursquare       :
   github           :
   gitlab           :
@@ -116,7 +116,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         :  "tom-tom-dezell-80253b30"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
