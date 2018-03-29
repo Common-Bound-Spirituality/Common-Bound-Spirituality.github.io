@@ -1,6 +1,6 @@
 ---
 layout: splash
-title:  "<br><br>Common Bound Spirituality"
+title:  "<br><br><br><br><br>Common Bound Spirituality"
 permalink: /
 excerpt: "Spirituality grounded in generous Love<br><br>"
 header:
