@@ -2,11 +2,14 @@
 layout: splash
 title:  "Common Bound Spirituality"
 permalink: /
-excerpt: "Common Bound Spirituality is not a Practice.  Common Bound Spirituality is who we are together; it is the world that we move around in, in all of its Mystery and Wonder.  In it we are joined to infinite Grace and Mercy by our God who wants only to return us to our truest selves.
-
+excerpt: "
+<br>
+<br>
+Common Bound Spirituality is not a Practice.  Common Bound Spirituality is who we are together; it is the world that we move around in, in all of its Mystery and Wonder.  In it we are joined to infinite Grace and Mercy by our God who wants only to return us to our truest selves.
+<br>
 I Invite You to Come and See
-
-Tom DeZell"
+<br>
+-Tom DeZell"
 header:
   overlay_image: /assets/images/sunrise.jpg
   overlay_filter: rgba(0, 0, 0, 0)
