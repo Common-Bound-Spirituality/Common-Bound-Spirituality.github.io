@@ -2,14 +2,7 @@
 layout: splash
 title:  "Common Bound Spirituality"
 permalink: /
-excerpt: "
-<br>
-<br>
-Common Bound Spirituality is not a Practice.  Common Bound Spirituality is who we are together; it is the world that we move around in, in all of its Mystery and Wonder.  In it we are joined to infinite Grace and Mercy by our God who wants only to return us to our truest selves.
-<br>
-I Invite You to Come and See
-<br>
--Tom DeZell"
+excerpt: "Spirituality grounded in generous Love"
 header:
   overlay_image: /assets/images/sunrise.jpg
   overlay_filter: rgba(0, 0, 0, 0)
@@ -17,15 +10,38 @@ header:
   cta_url: /blog-archive/
   
 row1:
+  - image_path: /assets/images/mesa.jpg
+    alt: "Blog"
+    title: "Blog"
+    url: /blog-archive/
+    btn_label: "Explore"
+    btn_class: "btn--primary"
+    excerpt: "Reflections and discussion on spirituality, theology, and our modern world"
+  - image_path: /assets/images/board.jpg
+    alt: "Recommended Reading"
+    title: "Recommended Reading"
+    url: /recommended-reading/
+    btn_label: "Read On"
+    btn_class: "btn--primary"
+    excerpt: "Reading materials for anyone no matter where you are at in your own spiritual journey"
   - image_path: /assets/images/sunglasses.jpg
     alt: "Thomas Dezell"
     title: "Thomas Dezell"
     url: /about-me/
     btn_label: "About Me"
     btn_class: "btn--primary"
-    excerpt: "For latest info try [@thomasdezell<i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>](https://twitter.com/@thomasdezell)."
+    excerpt: "A brief summary of myself and my own path. For latest info try [@thomasdezell<i class=\"fa fa-twitter\" aria-hidden=\"true\"></i>](https://twitter.com/@thomasdezell)."
+
   
 ---
+
+
+Common Bound Spirituality is not a Practice.  Common Bound Spirituality is who we are together; it is the world that we move around in, in all of its Mystery and Wonder.  In it we are joined to infinite Grace and Mercy by our God who wants only to return us to our truest selves.
+
+
+
+I Invite You to Come and See
+-Tom DeZell
 
 {% include toc %}
 {% include feature_row id="row1" type="center"  %}
