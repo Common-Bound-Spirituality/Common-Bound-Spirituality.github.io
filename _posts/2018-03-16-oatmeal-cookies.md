@@ -2,6 +2,7 @@
 layout: single
 title:  "Oatmeal Cookies"
 permalink: /oatmeal-cookies/
+comments: true
 header:
   teaser: /assets/images/grancanyon1.jpg
 ---

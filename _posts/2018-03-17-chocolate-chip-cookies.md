@@ -1,5 +1,6 @@
 ---
 title:  "Chocolate Chip Cookies"
+comments: true
 header:
   teaser: /assets/images/grancanyon1.jpg
 ---

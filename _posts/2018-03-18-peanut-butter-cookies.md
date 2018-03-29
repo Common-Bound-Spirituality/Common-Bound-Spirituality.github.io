@@ -2,6 +2,7 @@
 layout: single
 title:  "Peanut Butter Cookies"
 permalink: /peanut-butter-cookies/
+comments: true
 header:
   teaser: /assets/images/grancanyon1.jpg
 ---
